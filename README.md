@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="SP Raja — Data. Insight. New possibilities. Aspiring data analyst and computing student based in the United Kingdom." />
-</p>
-
-<h1 align="center">Hi, I’m SP Raja 👋</h1>
-<p align="center"><strong>Aspiring Data Analyst · BSc (Hons) Computing Student · United Kingdom</strong></p>
+<h1 align="center">Rajakokila Muralitharan · SP Raja</h1>
+<p align="center"><strong>Aspiring Application Support / IT Support Professional · Computing Student · United Kingdom</strong></p>
 <p align="center">Turning curiosity into practical projects with data, technology, and purpose.</p>
 
 <p align="center">
@@ -16,16 +12,19 @@
 
 ## About me
 
-I’m **Rajakokila Muralitharan**, also known as **SP Raja** — an aspiring data analyst studying **BSc (Hons) Computing at Bath Spa University**.
+I’m **Rajakokila Muralitharan**, also known as **SP Raja**, a computing student developing practical skills for **junior application support and IT support roles**.
 
 I’m developing a portfolio in data cleaning, database management, dashboard development, and operational data analysis. I enjoy making complex information easier to understand and turning learning into practical work.
 
 - **Currently building:** data projects using Python, SQL, and Power BI.
 - **Developing:** analytical thinking, interactive reporting, and technology skills.
 - **Experience I bring:** public-sector administration, records management, document verification, and customer service.
-- **Open to:** opportunities in data analysis, information management, technology support, and entry-level cybersecurity.
+- **Career focus:** junior application support, software support and IT support opportunities.
+- **Related interests:** data analysis, dashboard development and web development.
 
 ## Technical toolkit
+
+Tools used or explored through study and portfolio projects; these are not claims of professional certification.
 
 <h3 align="center">Data & databases</h3>
 <p align="center">
@@ -49,11 +48,7 @@ I’m developing a portfolio in data cleaning, database management, dashboard de
 
 ### 01 · Aircraft Engine Monitoring
 
-An end-to-end educational project using **simulated engine sensor data** to explore condition monitoring.
-
-- Generate simulated sensor data with **Python**.
-- Structure and manage the dataset with **SQL Server**.
-- Present findings through an interactive **Power BI** dashboard.
+An educational project exploring condition monitoring with **simulated engine sensor data**, Python, SQL Server and Power BI. This is a learning project, not an operational aviation monitoring system.
 
 **[Explore the repository →](https://github.com/Rajakokila-P/Aircraft-Engine-Monitoring)**
 
@@ -63,13 +58,27 @@ A five-page **Python Streamlit** application exploring oil operations through da
 
 **Tools:** Python · Streamlit · Pandas · Plotly
 
-**[Browse my repositories →](https://github.com/Rajakokila-P?tab=repositories)**
+The application includes year, region and country filters, operational charts and filtered CSV exports. It uses **synthetic practice data**. Local account features are educational demonstrations, not production-ready identity management.
+
+**[Explore OilPulse →](https://github.com/Rajakokila-P/OilPulse-Analytics-Streamlit)**
+
+### 03 · RAJA Fashion Boutique
+
+A five-page HTML, CSS and JavaScript catalogue demonstration with product filtering, responsive navigation and a sample contact form. Pages: Home, Shop, Stores, About and Contact. It has no checkout or message delivery service.
+
+**[Explore the repository and testing documentation →](https://github.com/Rajakokila-P/raja_fashion)**
+
+### 04 · Student Performance Dashboard — evidence in progress
+
+A Power BI learning project focused on maths, reading and writing scores. The repository includes a report archive; dataset provenance, usable source data and dashboard screenshots still need to be added before the analysis can be reproduced.
+
+**[View project status →](https://github.com/Rajakokila-P/PowerBI-Student-Performance-Dashboard)**
 
 ## Education & experience
 
 | Area | Background |
 | :--- | :--- |
-| **Education** | BSc (Hons) Computing · Bath Spa University · In progress |
+| **Education** | Bath Spa University · Current university studies |
 | **Public service** | Ministry of Justice UK · St Helens Council |
 | **Business support** | Technical administration and business support · National Gas |
 | **Transferable skills** | Accuracy, organisation, regulatory compliance, problem-solving, and handling sensitive information |
