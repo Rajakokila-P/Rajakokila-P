@@ -12,7 +12,7 @@
 
 ## About me
 
-I’m **Rajakokila Muralitharan**, also known as **SP Raja**, a computing student developing practical skills for **junior application support and IT support roles**.
+I’m **Rajakokila Periyathamby**, also known as **SP Raja**, a computing student developing practical skills for **junior application support and IT support roles**.
 
 I’m developing a portfolio in data cleaning, database management, dashboard development, and operational data analysis. I enjoy making complex information easier to understand and turning learning into practical work.
 
