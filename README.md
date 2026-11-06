@@ -1,4 +1,4 @@
-<h1 align="center">Rajakokila Muralitharan · SP Raja</h1>
+<h1 align="center">Rajakokila Periyathamby · SP Raja</h1>
 <p align="center"><strong>Aspiring Application Support / IT Support Professional · Computing Student · United Kingdom</strong></p>
 <p align="center">Turning curiosity into practical projects with data, technology, and purpose.</p>
 
